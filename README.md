@@ -1,4 +1,4 @@
-# tomes_space
+# VueFirebasePersonalWebsiteTemplate
 
 > This is a personal website template running on Vue, Bootstrap and Firebase, you can either easily deploy your website by following the guide below or you can modify the template any way you want
 
